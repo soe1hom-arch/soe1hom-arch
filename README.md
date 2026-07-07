@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Linux-58a6ff?style=flat-square&logo=linux&logoColor=white" />
 </div>
 
-**Android firmware enthusiast & open-source tool maker.** I build tools that run on Android, for Android — no PC needed.
+Saya membuat alat dan aplikasi yang berjalan di Android, untuk Android — tanpa perlu PC.
 
 ---
 
