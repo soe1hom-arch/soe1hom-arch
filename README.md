@@ -47,9 +47,11 @@ mission: Empowering Android device modification — directly on-device, no PC ne
 ## 🛠️ Projects
 
 ### [AFFT — Android Firmware Full Toolkit](https://github.com/soe1hom-arch/AFFT)
-Complete firmware modification suite running on Android via Termux — `payload.bin`, `super.img`, EROFS/ext4, boot images.
-- 📱 [AFFT Android App](https://github.com/soe1hom-arch/AFFT-Android) *(private)*
-- 📦 [Pre-built binaries](https://github.com/soe1hom-arch/afft-bin)
+Complete firmware modification suite for Android — `payload.bin`, `super.img`, EROFS/ext4, boot images.
+
+- 🐍 [CLI version](https://github.com/soe1hom-arch/AFFT) — Python, runs via Termux
+- 📱 [Android app](https://github.com/soe1hom-arch/AFFT-Toolkit) — Kotlin, standalone APK
+- 📦 [Pre-built binaries](https://github.com/soe1hom-arch/afft-bin) (aarch64)
 
 ### Go Toolchain
 | Tool | Description |
