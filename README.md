@@ -1,108 +1,124 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#58a6ff">Wandi</span></h1>
-<h3 align="center">Android Firmware Engineer & Open-Source Tool Maker from Indonesia 🇮🇩</h3>
+<div align="center">
+  
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=58A6FF&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Wandi;Android+Firmware+Engineer;Open-Source+Tool+Maker;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <a href="https://github.com/soe1hom-arch"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+  <br>
+
+  <!-- Badges — consistent color scheme -->
+  <a href="https://github.com/soe1hom-arch">
+    <img src="https://img.shields.io/badge/GitHub-@soe1hom--arch-58a6ff?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Android-58a6ff?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-58a6ff?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-58a6ff?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-58a6ff?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-58a6ff?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-58a6ff?style=flat-square&logo=cplusplus&logoColor=white" />
+
+  <br><br>
+
+  <!-- GitHub Trophy -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=soe1hom-arch&theme=onedark&column=6&no-frame=true&no-bg=true&margin-w=15" />
+  </a>
+</div>
+
+---
+
+## 📌 About Me
+
+```yaml
+name: Wandi
+location: Indonesia 🇮🇩
+focus: Android firmware engineering & open-source tooling
+mission: Empowering Android device modification — directly on-device, no PC needed
+```
+
+I build tools that make **Android firmware modification accessible to everyone**. From low-level partition tools in Go to full-featured Android apps in Kotlin — everything runs on the device itself.
 
 ---
 
 ## 🚀 Active Projects
 
-> I build **Android firmware tools** and **mobile apps** — focused on making device modification accessible directly on Android, without a PC.
-
 ### 🔧 [AFFT — Android Firmware Full Toolkit](https://github.com/soe1hom-arch/AFFT)
-All-in-one firmware modification suite for Android. Extract `payload.bin`, unpack/repack `super.img`, handle EROFS/ext4 filesystems, and manipulate boot images — all on-device via Termux.
+> The flagship project — complete firmware modification suite running on Android via Termux.
 
-| Component | Stack | Status |
-|-----------|-------|--------|
-| Core CLI (Python) | Python, Shell | ✅ Stable |
-| Android App (Kotlin) | Kotlin, Jetpack Compose | 🚧 In Development |
-| Binary Distribution | aarch64 builds | ✅ Available |
-
-**[➤ Explore AFFT](https://github.com/soe1hom-arch/AFFT)** · **[📱 AFFT Android](https://github.com/soe1hom-arch/AFFT-Android)** *(private)* · **[📦 Pre-built Binaries](https://github.com/soe1hom-arch/afft-bin)**
+| Feature | Status |
+|---------|--------|
+| `payload.bin` extraction | ✅ Stable |
+| `super.img` unpack/repack | ✅ Stable |
+| EROFS/ext4 filesystem | ✅ Stable |
+| Boot image family (7 types) | ✅ Stable |
+| AFFT Android App (Kotlin) | 🚧 In development |
+| [Binary releases](https://github.com/soe1hom-arch/afft-bin) (aarch64) | ✅ Available |
 
 ### 🧠 [Orion — Offline AI Assistant](https://github.com/soe1hom-arch/orion)
-Offline LLM assistant for Android powered by llama.cpp. Run AI models directly on your phone — no internet required.
+> Private, offline LLM assistant for Android powered by llama.cpp.
 
-| Component | Stack |
-|-----------|-------|
-| Android App | Kotlin, C++ (JNI) |
-| Inference Engine | llama.cpp, GGUF models |
+- **Stack:** Kotlin · C++ (JNI) · llama.cpp · GGUF models
+- **Goal:** Run AI entirely offline on mobile — no cloud, no tracking
 
 ### 🧮 [CalcDuo — Modern Dual Calculator](https://github.com/soe1hom-arch/calcduo)
-Clean, split-screen dual-calculator Android app with multi-tab support. Two calculators side-by-side for efficient multitasking.
+> Split-screen dual-calculator Android app with multi-tab support.
 
-**[➤ Try CalcDuo](https://github.com/soe1hom-arch/calcduo)**
+- **Stack:** Kotlin · Jetpack Compose
+- **Try it:** [github.com/soe1hom-arch/calcduo](https://github.com/soe1hom-arch/calcduo)
 
 ### 🛠️ Android Firmware Toolchain (Go)
-Low-level tools for Android firmware manipulation, written in Go for speed and portability:
 
 | Tool | Description |
 |------|-------------|
-| [simg2img](https://github.com/soe1hom-arch/simg2img) | Android sparse image → raw image converter |
-| [lpunpack](https://github.com/soe1hom-arch/lpunpack) | Extract partitions from Android super.img |
-| [lucky-arch](https://github.com/soe1hom-arch/lucky-arch) | One-step super.img extraction (simg2img + lpunpack combined) |
+| [simg2img](https://github.com/soe1hom-arch/simg2img) | Sparse → raw image converter in Go |
+| [lpunpack](https://github.com/soe1hom-arch/lpunpack) | Partition extractor from super.img |
+| [lucky-arch](https://github.com/soe1hom-arch/lucky-arch) | One-step super.img extract (simg2img + lpunpack) |
 | [baki](https://github.com/soe1hom-arch/baki) | Xiaomi partition version control |
-| [vbmeta-toolkit](https://github.com/soe1hom-arch/vbmeta-toolkit) | AOSP AVB vbmeta image manipulation |
+| [vbmeta-toolkit](https://github.com/soe1hom-arch/vbmeta-toolkit) | AOSP AVB vbmeta manipulation |
 
-### 📦 Other Tools
+### 📦 More Tools
 - [**codelock**](https://github.com/soe1hom-arch/codelock) — Inline secret encryption for codebases
 - [**mdt**](https://github.com/soe1hom-arch/mdt) — Markdown Task Manager CLI
-- [**trailpad**](https://github.com/soe1hom-arch/trailpad) — *(coming soon)*
 
 ---
 
-## 🤝 Let's Build Together
+## 🤝 Contribute
 
-I believe in open-source and community-driven development. If you're interested in **Android firmware**, **mobile development**, or **Go/Python tooling**, I'd love your contributions!
+All projects are **open-source** and welcome contributions at any level.
 
-**Ways to contribute:**
-- 🐛 Report bugs or suggest features via [Issues](https://github.com/soe1hom-arch/AFFT/issues)
-- 🔀 Submit pull requests — all skill levels welcome
-- 💬 Share ideas or ask questions in Discussions
-- ⭐ Star the repos you find useful
+**How to help:**
+- 🐛 [Open an issue](https://github.com/soe1hom-arch/AFFT/issues) — bug reports & feature ideas
+- 🔀 Submit a PR — code, docs, translations, all welcome
+- ⭐ Star repos that you find useful
+- 💬 Share feedback or ideas
 
 > *"The best way to predict the future is to build it — together."*
 
 ---
 
-## 🧰 Tech Stack
+## 📊 GitHub Analytics
 
-| Area | Technologies |
-|------|-------------|
-| **Languages** | Kotlin, Go, Python, C, Shell/Bash |
-| **Mobile** | Android SDK, Jetpack Compose, JNI/NDK |
-| **Platform** | Android (Termux), Linux, aarch64 |
-| **Firmware** | payload.bin, super.img, EROFS, ext4, sparse, AVB vbmeta |
-| **AI/ML** | llama.cpp, GGUF, ONNX |
-| **Tools** | Git, GitHub Actions, CMake, Docker |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soe1hom-arch&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soe1hom-arch&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soe1hom-arch&theme=dark&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soe1hom-arch&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soe1hom-arch&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soe1hom-arch&theme=github-dark-blue&hide_border=true&background=0d1117" width="49%" />
+  <br><br>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soe1hom-arch&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
+  </a>
+</div>
 
 ---
 
 ## 📬 Let's Connect
 
-- **GitHub:** [@soe1hom-arch](https://github.com/soe1hom-arch)
-- **Projects:** Explore all repos below 👇
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soe1hom-arch&color=blue&style=flat-square&label=Profile+Views" />
-</p>
+<div align="center">
+  <a href="https://github.com/soe1hom-arch">
+    <img src="https://img.shields.io/badge/GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=soe1hom-arch&color=58a6ff&style=flat-square&label=Profile+Views" />
+</div>
