@@ -30,38 +30,28 @@ focus: Android firmware engineering & open-source tooling
 mission: Empowering Android device modification — directly on-device, no PC needed
 ```
 
-I build tools that make **Android firmware modification accessible to everyone**. From low-level partition tools in Go to full-featured Android apps in Kotlin — everything runs on the device itself.
-
 ---
 
-## 🚀 Active Projects
-
-### 🔧 [AFFT — Android Firmware Full Toolkit](https://github.com/soe1hom-arch/AFFT)
-> The flagship project — complete firmware modification suite running on Android via Termux.
-
-| Feature | Status |
-|---------|--------|
-| `payload.bin` extraction | ✅ Stable |
-| `super.img` unpack/repack | ✅ Stable |
-| EROFS/ext4 filesystem | ✅ Stable |
-| Boot image family (7 types) | ✅ Stable |
-| AFFT Android App (Kotlin) | 🚧 In development |
-| [Binary releases](https://github.com/soe1hom-arch/afft-bin) (aarch64) | ✅ Available |
-
-### 🧠 [Orion — Offline AI Assistant](https://github.com/soe1hom-arch/orion)
-> Private, offline LLM assistant for Android powered by llama.cpp.
-
-- **Stack:** Kotlin · C++ (JNI) · llama.cpp · GGUF models
-- **Goal:** Run AI entirely offline on mobile — no cloud, no tracking
+## 🔥 Currently Focusing On
 
 ### 🧮 [CalcDuo — Modern Dual Calculator](https://github.com/soe1hom-arch/calcduo)
 > Split-screen dual-calculator Android app with multi-tab support.
+> Built with **Kotlin · Jetpack Compose**
 
-- **Stack:** Kotlin · Jetpack Compose
-- **Try it:** [github.com/soe1hom-arch/calcduo](https://github.com/soe1hom-arch/calcduo)
+### 🧠 [Orion — Offline AI Assistant](https://github.com/soe1hom-arch/orion)
+> Private, offline LLM assistant for Android powered by llama.cpp.
+> **Stack:** Kotlin · C++ (JNI) · llama.cpp · GGUF models
 
-### 🛠️ Android Firmware Toolchain (Go)
+---
 
+## 🛠️ Projects
+
+### [AFFT — Android Firmware Full Toolkit](https://github.com/soe1hom-arch/AFFT)
+Complete firmware modification suite running on Android via Termux — `payload.bin`, `super.img`, EROFS/ext4, boot images.
+- 📱 [AFFT Android App](https://github.com/soe1hom-arch/AFFT-Android) *(private)*
+- 📦 [Pre-built binaries](https://github.com/soe1hom-arch/afft-bin)
+
+### Go Toolchain
 | Tool | Description |
 |------|-------------|
 | [simg2img](https://github.com/soe1hom-arch/simg2img) | Sparse → raw image converter in Go |
@@ -70,7 +60,7 @@ I build tools that make **Android firmware modification accessible to everyone**
 | [baki](https://github.com/soe1hom-arch/baki) | Xiaomi partition version control |
 | [vbmeta-toolkit](https://github.com/soe1hom-arch/vbmeta-toolkit) | AOSP AVB vbmeta manipulation |
 
-### 📦 More Tools
+### More
 - [**codelock**](https://github.com/soe1hom-arch/codelock) — Inline secret encryption for codebases
 - [**mdt**](https://github.com/soe1hom-arch/mdt) — Markdown Task Manager CLI
 
@@ -78,12 +68,11 @@ I build tools that make **Android firmware modification accessible to everyone**
 
 ## 🤝 Contribute
 
-All projects are **open-source** and welcome contributions at any level.
+All projects are **open-source** — contributions at any level are welcome.
 
-**How to help:**
-- 🐛 [Open an issue](https://github.com/soe1hom-arch/AFFT/issues) — bug reports & feature ideas
-- 🔀 Submit a PR — code, docs, translations, all welcome
-- ⭐ Star repos that you find useful
+- 🐛 [Open an issue](https://github.com/soe1hom-arch/AFFT/issues) — report bugs or suggest features
+- 🔀 Submit a PR — code, docs, translations, anything
+- ⭐ Star repos you find useful
 - 💬 Share feedback or ideas
 
 > *"The best way to predict the future is to build it — together."*
@@ -95,8 +84,6 @@ All projects are **open-source** and welcome contributions at any level.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soe1hom-arch&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soe1hom-arch&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soe1hom-arch&theme=github-dark-blue&hide_border=true&background=0d1117" width="49%" />
   <br><br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=soe1hom-arch&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
