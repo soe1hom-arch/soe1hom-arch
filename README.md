@@ -40,8 +40,10 @@ All repos are open-source. [Open an issue](https://github.com/soe1hom-arch/AFFT/
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soe1hom-arch&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soe1hom-arch&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soe1hom-arch&theme=github_dark" width="98%" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soe1hom-arch&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soe1hom-arch&theme=github_dark" width="49%" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=soe1hom-arch&color=58a6ff&style=flat-square&label=Profile+Views" />
 </div>
