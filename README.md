@@ -17,13 +17,6 @@
   <img src="https://img.shields.io/badge/Python-58a6ff?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-58a6ff?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-58a6ff?style=flat-square&logo=cplusplus&logoColor=white" />
-
-  <br><br>
-
-  <!-- GitHub Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=soe1hom-arch&theme=onedark&column=6&no-frame=true&no-bg=true&margin-w=15" />
-  </a>
 </div>
 
 ---
@@ -112,13 +105,6 @@ All projects are **open-source** and welcome contributions at any level.
 
 ---
 
-## 📬 Let's Connect
-
 <div align="center">
-  <a href="https://github.com/soe1hom-arch">
-    <img src="https://img.shields.io/badge/GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <br><br>
   <img src="https://komarev.com/ghpvc/?username=soe1hom-arch&color=58a6ff&style=flat-square&label=Profile+Views" />
 </div>
