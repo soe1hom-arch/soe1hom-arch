@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Linux-58a6ff?style=flat-square&logo=linux&logoColor=white" />
 </div>
 
-Saya membuat alat dan aplikasi yang berjalan di Android, untuk Android — tanpa perlu PC.
+Just an Android dev who loves open-source.
 
 ---
 
