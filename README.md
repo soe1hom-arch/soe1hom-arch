@@ -23,6 +23,8 @@ Just an Android dev who loves open-source.
 
 - **🧮 [CalcDuo](https://github.com/soe1hom-arch/calcduo)** — Split-screen dual-calculator Android app (Kotlin · Jetpack Compose)
 - **🧠 [Orion](https://github.com/soe1hom-arch/orion)** — Offline AI assistant for Android via llama.cpp (Kotlin · C++)
+- **🗂
+[Andromeda](https://github.com/soe1hom-arch/andromeda)** — Pengelola File Hibrida Terbaik — Mesin Shizuku, BusyBox, ToyBox & PRoot (Fake Root)
 
 ## ⚡ Projects
 
