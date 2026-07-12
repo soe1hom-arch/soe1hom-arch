@@ -30,6 +30,7 @@ Just an Android dev who loves open-source.
 
 | Project | Description |
 |---------|-------------|
+| [Developer Hub](https://github.com/soe1hom-arch/developer-hub) | [🌐 Live](https://developer-hub-production.up.railway.app) — 500+ developer resources database (JSON) |
 | [AFFT](https://github.com/soe1hom-arch/AFFT) | Android firmware toolkit — payload.bin, super.img, EROFS, boot images |
 | [AFFT-Toolkit](https://github.com/soe1hom-arch/AFFT-Toolkit) | Android app version of AFFT (Kotlin) |
 | [simg2img](https://github.com/soe1hom-arch/simg2img) · [lpunpack](https://github.com/soe1hom-arch/lpunpack) · [lucky-arch](https://github.com/soe1hom-arch/lucky-arch) | Android firmware tools in Go |
