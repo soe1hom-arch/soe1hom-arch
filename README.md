@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Linux-58a6ff?style=flat-square&logo=linux&logoColor=white" />
 </div>
 
-An open-source android developer.
+Open-source android developer.
 
 ---
 
