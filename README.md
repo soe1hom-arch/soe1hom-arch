@@ -17,12 +17,14 @@
 
 Open-source android developer.
 
+> I work on these projects in spare time.
 ---
 
 ## 🔥 Currently Focusing On
 
+
 - **🧮 [CalcDuo](https://github.com/soe1hom-arch/calcduo)** — Split-screen dual-calculator Android app (Kotlin · Jetpack Compose)
-- **🧠 [Orion](https://github.com/soe1hom-arch/orion)** — Offline AI assistant for Android via llama.cpp (Kotlin · C++)
+- **🧠 [AFFT-Toolkit](https://github.com/soe1hom-arch/AFFT-Toolkit)** — An android application to unpack and repack img files without requiring termux/pc/linux terminal.
 - **🗂
 [Andromeda](https://github.com/soe1hom-arch/andromeda)** — Pengelola File Hibrida Terbaik — Mesin Shizuku, BusyBox, ToyBox & PRoot (Fake Root)
 
