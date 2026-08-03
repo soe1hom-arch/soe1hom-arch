@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=500&color=58A6FF&center=true&vCenter=true&width=580&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Wandi;Open-Source+Android+Developer;Building+Tools+That+Just+Work" alt="Hi, I'm Wandi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=600&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hai%2C+saya+Wandi+%F0%9F%91%8B;Seorang+pengembang+pemula+dari+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Hai, saya Wandi" />
 
   <p>
-    <b>Android · Kotlin · Compose — Firmware & Dev Tooling</b><br/>
-    <i>Crafting practical, offline-first tools, right from Indonesia 🇮🇩</i>
+    <b>Android · Kotlin · Compose — Firmware & Tools</b><br/>
+    <i>Belajar sambil berkarya di waktu luang 🇮🇩</i>
   </p>
 
   [![GitHub followers](https://img.shields.io/github/followers/soe1hom-arch?style=flat-square&logo=github&label=Followers&color=58a6ff)](https://github.com/soe1hom-arch)
@@ -14,11 +14,13 @@
 
 ---
 
-## 🎯 What I Do
+## 🎯 Tentang Saya
 
-- Build **Android apps & firmware tooling** that run directly on-device — no PC / terminal required.
-- Develop **CLI utilities & libraries** in Go, Python, and C++.
-- Open everything up; collaboration and PRs from any level are always welcome.
+Halo! Saya **Wandi**, seorang pengembang pemula dari **Indonesia 🇮🇩**.
+
+- 🎓 Saat ini saya **sedang mencari pengalaman** — setiap proyek adalah kesempatan untuk belajar.
+- 🕐 Semua proyek di bawah ini saya kerjakan **hanya di waktu luang**.
+- 💚 Semua repo bersifat open-source; kontribusi dari siapa pun selalu diterima.
 
 ---
 
@@ -32,7 +34,7 @@
 
 ---
 
-## 🚀 Currently Building
+## 🚀 Sedang Dikerjakan
 
 <div align="center">
 
@@ -50,28 +52,28 @@
 
 | 🔢 CalcDuo | 📦 AFFT-Toolkit | 🗂️ Andromeda |
 |:---:|:---:|:---:|
-| Split-screen dual-calculator | Unpack/repack `img` on-device | Hybrid manager: Shizuku · BusyBox · PRoot |
+| Kalkulator layar ganda (split-screen) | Unpack/repack `img` langsung di HP | Manajer file hibrida: Shizuku · BusyBox · PRoot |
 
 </div>
 
 ---
 
-## 📦 Projects
+## 📦 Proyek
 
 <div align="center">
 
 | | |
 |---|---|
-| **[⚙️ AFFT](https://github.com/soe1hom-arch/AFFT)** | Android firmware toolkit — `payload.bin` · `super.img` · EROFS · boot images |
-| **[🧩 vbmeta-toolkit](https://github.com/soe1hom-arch/vbmeta-toolkit)** · **[🔐 codelock](https://github.com/soe1hom-arch/codelock)** · **[🛠️ mdt](https://github.com/soe1hom-arch/mdt)** · **[🎒 baki](https://github.com/soe1hom-arch/baki)** | Android & general dev tools |
-| **[🦫 simg2img-go](https://github.com/soe1hom-arch/simg2img-go)** · **[🔩 lpunpack-go](https://github.com/soe1hom-arch/lpunpack-go)** · **[🍀 lucky-arch](https://github.com/soe1hom-arch/lucky-arch)** | Firmware helpers written in Go |
-| **[🧭 Developer Hub](https://github.com/soe1hom-arch/developer-hub)** · [🌐 Live](https://developer-hub-production.up.railway.app) | Developer resources database (JSON) |
+| **[⚙️ AFFT](https://github.com/soe1hom-arch/AFFT)** | Android firmware toolkit — `payload.bin` · `super.img` · EROFS · boot image |
+| **[🧩 vbmeta-toolkit](https://github.com/soe1hom-arch/vbmeta-toolkit)** · **[🔐 codelock](https://github.com/soe1hom-arch/codelock)** · **[🛠️ mdt](https://github.com/soe1hom-arch/mdt)** · **[🎒 baki](https://github.com/soe1hom-arch/baki)** | Perkakas Android & pengembangan lainnya |
+| **[🦫 simg2img-go](https://github.com/soe1hom-arch/simg2img-go)** · **[🔩 lpunpack-go](https://github.com/soe1hom-arch/lpunpack-go)** · **[🍀 lucky-arch](https://github.com/soe1hom-arch/lucky-arch)** | Utilitas firmware dalam Go |
+| **[🧭 Developer Hub](https://github.com/soe1hom-arch/developer-hub)** · [🌐 Live](https://developer-hub-production.up.railway.app) | Database referensi developer (JSON) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statistik GitHub
 
 <div align="center">
 
@@ -93,15 +95,15 @@
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Kolaborasi
 
-All repos are open-source. Got an idea, a bug report, or just want to say hi?
-**[Open an issue](https://github.com/soe1hom-arch/AFFT-Toolkit/issues)** or submit a PR — pull requests are welcome.
+Semua repo bersifat open-source. Punya ide, laporan bug, atau sekadar menyapa?
+**[Buka issue](https://github.com/soe1hom-arch/AFFT-Toolkit/issues)** atau kirim PR — pull request selalu disambut.
 
 ---
 
 <div align="center">
 
-*Made with ❤️ by [Wandi](https://github.com/soe1hom-arch) · Open-source · Always tinkering*
+*Dibuat dengan ❤️ oleh [Wandi](https://github.com/soe1hom-arch) · Open-source · Selalu belajar*
 
 </div>
