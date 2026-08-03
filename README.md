@@ -1,26 +1,26 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=600&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hai%2C+saya+Wandi+%F0%9F%91%8B;Seorang+pengembang+pemula+dari+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Hai, saya Wandi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=600&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Wandi+%F0%9F%91%8B;A+beginner+developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Hi, I'm Wandi" />
 
   <p>
     <b>Android · Kotlin · Compose — Firmware & Tools</b><br/>
-    <i>Belajar sambil berkarya di waktu luang 🇮🇩</i>
+    <i>Learning and building in my spare time 🇮🇩</i>
   </p>
 
   [![GitHub followers](https://img.shields.io/github/followers/soe1hom-arch?style=flat-square&logo=github&label=Followers&color=58a6ff)](https://github.com/soe1hom-arch)
-  [![Profile views](https://komarev.com/ghpvc/?username=soe1hom-arch&color=58a6ff&style=flat-square&label=Profile+views)]()
+  [![Profile views](https://visitor-badge.laobi.icu/badge?page_id=soe1hom-arch)]()
 
 </div>
 
 ---
 
-## 🎯 Tentang Saya
+## 🎯 About Me
 
-Halo! Saya **Wandi**, seorang pengembang pemula dari **Indonesia 🇮🇩**.
+Hi! I'm **Wandi**, a beginner developer from **Indonesia 🇮🇩**.
 
-- 🎓 Saat ini saya **sedang mencari pengalaman** — setiap proyek adalah kesempatan untuk belajar.
-- 🕐 Semua proyek di bawah ini saya kerjakan **hanya di waktu luang**.
-- 💚 Semua repo bersifat open-source; kontribusi dari siapa pun selalu diterima.
+- 🎓 I'm currently **looking for experience** — every project is a chance to learn.
+- 🕐 All of the projects below are things I build **only in my spare time**.
+- 💚 Everything is open-source; contributions from anyone are always welcome.
 
 ---
 
@@ -34,7 +34,7 @@ Halo! Saya **Wandi**, seorang pengembang pemula dari **Indonesia 🇮🇩**.
 
 ---
 
-## 🚀 Sedang Dikerjakan
+## 🚀 Currently Building
 
 <div align="center">
 
@@ -52,58 +52,50 @@ Halo! Saya **Wandi**, seorang pengembang pemula dari **Indonesia 🇮🇩**.
 
 | 🔢 CalcDuo | 📦 AFFT-Toolkit | 🗂️ Andromeda |
 |:---:|:---:|:---:|
-| Kalkulator layar ganda (split-screen) | Unpack/repack `img` langsung di HP | Manajer file hibrida: Shizuku · BusyBox · PRoot |
+| Split-screen dual calculator | Unpack/repack `img` on-device | Hybrid file manager: Shizuku · BusyBox · PRoot |
 
 </div>
 
 ---
 
-## 📦 Proyek
+## 📦 Projects
 
 <div align="center">
 
 | | |
 |---|---|
-| **[⚙️ AFFT](https://github.com/soe1hom-arch/AFFT)** | Android firmware toolkit — `payload.bin` · `super.img` · EROFS · boot image |
-| **[🧩 vbmeta-toolkit](https://github.com/soe1hom-arch/vbmeta-toolkit)** · **[🔐 codelock](https://github.com/soe1hom-arch/codelock)** · **[🛠️ mdt](https://github.com/soe1hom-arch/mdt)** · **[🎒 baki](https://github.com/soe1hom-arch/baki)** | Perkakas Android & pengembangan lainnya |
-| **[🦫 simg2img-go](https://github.com/soe1hom-arch/simg2img-go)** · **[🔩 lpunpack-go](https://github.com/soe1hom-arch/lpunpack-go)** · **[🍀 lucky-arch](https://github.com/soe1hom-arch/lucky-arch)** | Utilitas firmware dalam Go |
-| **[🧭 Developer Hub](https://github.com/soe1hom-arch/developer-hub)** · [🌐 Live](https://developer-hub-production.up.railway.app) | Database referensi developer (JSON) |
+| **[⚙️ AFFT](https://github.com/soe1hom-arch/AFFT)** | Android firmware toolkit — `payload.bin` · `super.img` · EROFS · boot images |
+| **[🧩 vbmeta-toolkit](https://github.com/soe1hom-arch/vbmeta-toolkit)** · **[🔐 codelock](https://github.com/soe1hom-arch/codelock)** · **[🛠️ mdt](https://github.com/soe1hom-arch/mdt)** · **[🎒 baki](https://github.com/soe1hom-arch/baki)** | Android & dev tools |
+| **[🦫 simg2img-go](https://github.com/soe1hom-arch/simg2img-go)** · **[🔩 lpunpack-go](https://github.com/soe1hom-arch/lpunpack-go)** · **[🍀 lucky-arch](https://github.com/soe1hom-arch/lucky-arch)** | Firmware helpers written in Go |
+| **[🧭 Developer Hub](https://github.com/soe1hom-arch/developer-hub)** · [🌐 Live](https://developer-hub-production.up.railway.app) | Developer resources database (JSON) |
 
 </div>
 
 ---
 
-## 📊 Statistik GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soe1hom-arch&theme=github_dark&hide_border=true&layout=compact" alt="top langs" width="42%" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=soe1hom-arch&show_icons=true&theme=github_dark&hide_border=true" alt="stats" width="49%" />
+<img src="https://streak-stats.demolab.com?user=soe1hom-arch&theme=github-dark&hide_border=true" alt="GitHub Streak" width="45%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=soe1hom-arch&theme=github-dark&hide_border=true" alt="streak" width="42%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=soe1hom-arch&theme=onedark&no-frame=true&no-bg=true&row=1&column=5&margin-w=12" alt="trophies" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soe1hom-arch&theme=github_dark" alt="profile details" width="92%" />
+<img src="https://metrics.lecoq.io/soe1hom-arch?template=classic&base.indepth=true" alt="GitHub metrics" width="92%" />
 
 </div>
 
 ---
 
-## 🤝 Kolaborasi
+## 🤝 Let's Collaborate
 
-Semua repo bersifat open-source. Punya ide, laporan bug, atau sekadar menyapa?
-**[Buka issue](https://github.com/soe1hom-arch/AFFT-Toolkit/issues)** atau kirim PR — pull request selalu disambut.
+All repositories are open-source. Got an idea, a bug report, or just want to say hi?
+**[Open an issue](https://github.com/soe1hom-arch/AFFT-Toolkit/issues)** or submit a PR — pull requests are welcome.
 
 ---
 
 <div align="center">
 
-*Dibuat dengan ❤️ oleh [Wandi](https://github.com/soe1hom-arch) · Open-source · Selalu belajar*
+*Made with ❤️ by [Wandi](https://github.com/soe1hom-arch) · Open-source · Always learning*
 
 </div>
