@@ -1,54 +1,95 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=58A6FF&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Wandi;Open-source+Android+Developer;Open-Source+Tool+Maker;I'm+From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
-  </a>
+# 👋 Hi, I'm Wandi
 
-  <br>
+**Open-Source Android Developer · Tool Maker**  
+*from Indonesia 🇮🇩*
 
-  <img src="https://img.shields.io/badge/Android-58a6ff?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-58a6ff?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-58a6ff?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-58a6ff?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-58a6ff?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-58a6ff?style=flat-square&logo=linux&logoColor=white" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=600&color=58A6FF&center=true&vCenter=true&width=520&height=40&lines=Android+%E2%80%A2+Kotlin+%E2%80%A2+Compose;Firmware+%26+Tooling+%E2%80%A2+Go+%E2%80%A2+Python;Building+useful+things+in+the+open)](https://git.io/typing-svg)
 
-Open-source android developer.
-
-> I work on these projects in spare time.
 ---
 
-## 🔥 Currently Focusing On
+</div>
 
+## 🧭 About Me
 
-- **🧮 [CalcDuo](https://github.com/soe1hom-arch/calcduo)** — Split-screen dual-calculator Android app (Kotlin · Jetpack Compose)
-- **🧠 [AFFT-Toolkit](https://github.com/soe1hom-arch/AFFT-Toolkit)** — An android application to unpack and repack img files without requiring termux/pc/linux terminal.
-- **🗂
-[Andromeda](https://github.com/soe1hom-arch/andromeda)** — Pengelola File Hibrida Terbaik — Mesin Shizuku, BusyBox, ToyBox & PRoot (Fake Root)
+- Open-source Android developer focused on **practical, offline-first tools**.
+- I build Android apps, firmware tooling, and CLI utilities in my spare time.
+- Most projects run **without a PC / terminal** — designed to work directly on device.
 
-## ⚡ Projects
+---
 
-| Project | Description |
-|---------|-------------|
-| [Developer Hub](https://github.com/soe1hom-arch/developer-hub) | [🌐 Live](https://developer-hub-production.up.railway.app) — developer resources database (JSON) |
-| [AFFT](https://github.com/soe1hom-arch/AFFT) | Android firmware toolkit — payload.bin, super.img, EROFS, boot images |
-| [AFFT-Toolkit](https://github.com/soe1hom-arch/AFFT-Toolkit) | Android app version of AFFT (Kotlin) |
-| [simg2img-go](https://github.com/soe1hom-arch/simg2img-go) · [lpunpack-go](https://github.com/soe1hom-arch/lpunpack-go) · [lucky-arch](https://github.com/soe1hom-arch/lucky-arch) | Android firmware tools in Go |
-| [baki](https://github.com/soe1hom-arch/baki) · [vbmeta-toolkit](https://github.com/soe1hom-arch/vbmeta-toolkit) · [codelock](https://github.com/soe1hom-arch/codelock) · [mdt](https://github.com/soe1hom-arch/mdt) | More Android & dev tools |
+## 🛠 Tech Stack
 
-## 🤝 Contributions Welcome
+<div align="center">
 
-All repos are open-source. [Open an issue](https://github.com/soe1hom-arch/AFFT-Toolkit/issues) or submit a PR — any level welcome.
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 Currently Building
+
+| Project | What it does |
+|---------|--------------|
+| **[CalcDuo](https://github.com/soe1hom-arch/calcduo)** | Split-screen dual calculator — Android · Kotlin · Jetpack Compose |
+| **[AFFT-Toolkit](https://github.com/soe1hom-arch/AFFT-Toolkit)** | Unpack & repack `img` files directly on Android — no Termux/PC needed |
+| **[Andromeda](https://github.com/soe1hom-arch/andromeda)** | Hybrid file manager powered by Shizuku, BusyBox, ToyBox & PRoot |
+
+---
+
+## 📦 Projects
+
+### Android & Tooling
+
+- [**AFFT**](https://github.com/soe1hom-arch/AFFT) — Android firmware toolkit: `payload.bin`, `super.img`, EROFS, boot images
+- [**AFFT-Toolkit**](https://github.com/soe1hom-arch/AFFT-Toolkit) — Android app version of AFFT (Kotlin)
+- [**vbmeta-toolkit**](https://github.com/soe1hom-arch/vbmeta-toolkit) · [**baki**](https://github.com/soe1hom-arch/baki) · [**codelock**](https://github.com/soe1hom-arch/codelock) · [**mdt**](https://github.com/soe1hom-arch/mdt)
+
+### Firmware Tools in Go
+
+- [simg2img-go](https://github.com/soe1hom-arch/simg2img-go) · [lpunpack-go](https://github.com/soe1hom-arch/lpunpack-go) · [lucky-arch](https://github.com/soe1hom-arch/lucky-arch)
+
+### Dev Resources
+
+- [Developer Hub](https://github.com/soe1hom-arch/developer-hub) — developer resources database · [🌐 Live](https://developer-hub-production.up.railway.app)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soe1hom-arch&layout=compact&theme=github_dark&hide_border=true&card_width=450)
+
+![Wandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=soe1hom-arch&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=soe1hom-arch&theme=github-dark&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=soe1hom-arch&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2)
+
+</div>
+
+---
+
+## 🤝 Contributions
+
+All repositories are open-source. Found a bug, or want a new feature?
+**[Open an issue](https://github.com/soe1hom-arch/AFFT-Toolkit/issues)** or submit a PR — every level of experience is welcome.
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soe1hom-arch&theme=github_dark" width="98%" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soe1hom-arch&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soe1hom-arch&theme=github_dark" width="49%" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=soe1hom-arch&color=58a6ff&style=flat-square&label=Profile+Views" />
+
+[![Profile views](https://komarev.com/ghpvc/?username=soe1hom-arch&color=58a6ff&style=flat-square&label=Profile%20views)]()
+
+*Crafted with ❤️ by [Wandi](https://github.com/soe1hom-arch)*
+
 </div>
