@@ -4,7 +4,7 @@
 
   <p>
     <b>Android · Kotlin · Compose — Firmware & Tools</b><br/>
-    <i>Learning and building in my spare time 🇮🇩</i>
+    <i>I am interested in building open source projects, such as more practical tools for Android.</i>
   </p>
 
   [![GitHub followers](https://img.shields.io/github/followers/soe1hom-arch?style=flat-square&logo=github&label=Followers&color=58a6ff)](https://github.com/soe1hom-arch)
@@ -20,7 +20,7 @@ Hi! I'm **Wandi**, a beginner developer from **Indonesia 🇮🇩**.
 
 - 🎓 I'm currently **looking for experience** — every project is a chance to learn.
 - 🕐 All of the projects below are things I build **only in my spare time**.
-- 💚 Everything is open-source; contributions from anyone are always welcome.
+- 📎 Everything is open-source; contributions from anyone are always welcome.
 
 ---
 
@@ -95,7 +95,4 @@ All repositories are open-source. Got an idea, a bug report, or just want to say
 ---
 
 <div align="center">
-
-*Made with ❤️ by [Wandi](https://github.com/soe1hom-arch) · Open-source · Always learning*
-
-</div>
+Open Source
