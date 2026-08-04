@@ -16,11 +16,10 @@
 
 ## 🎯 About Me
 
-Hi! I'm **Wandi**, a beginner developer from **Indonesia 🇮🇩**.
+Hi! I'm **Wandi**, A newbie in the world of Android development, and I come from  **Indonesia 🇮🇩**.
 
-- 🎓 I'm currently **looking for experience** — every project is a chance to learn.
-- 🕐 All of the projects below are things I build **only in my spare time**.
-- 📎 Everything is open-source; contributions from anyone are always welcome.
+- 🕐 I only work on these projects **in spare time**.
+- 📎 These projects are open source; contributions from anyone are always welcome.
 
 ---
 
