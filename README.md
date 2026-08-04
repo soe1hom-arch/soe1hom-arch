@@ -44,15 +44,18 @@ Hi! I'm **Wandi**, a beginner developer from **Indonesia 🇮🇩**.
 <a href="https://github.com/soe1hom-arch/AFFT-Toolkit">
   <img src="https://img.shields.io/badge/AFFT--Toolkit-Unpack%20%2F%20Repack%20img-00ADD8?style=for-the-badge&logo=android&logoColor=white&labelColor=111" />
 </a>
-<a href="https://github.com/soe1hom-arch/andromeda">
-  <img src="https://img.shields.io/badge/Andromeda-Hybrid%20File%20Manager-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=111" />
+<a href="https://github.com/soe1hom-arch/search-modul">
+  <img src="https://img.shields.io/badge/Search%20module-Automated%20Magisk%20/KernelSu%20/KSU%20Next%20module%20downloader-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=111" />
+</a>
+<a href="https://github.com/soe1hom-arch/orion">
+  <img src="https://img.shields.io/badge/Orion-Offline%20AI%20Assistant%20Android%20LLM%20offline%20dengan%20llama.cpp-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=111" />
 </a>
 
-<br/><br/>
+<br/>
 
-| 🔢 CalcDuo | 📦 AFFT-Toolkit | 🗂️ Andromeda |
+| 🔢 CalcDuo | 🔧 AFFT-Toolkit | 🔍 Search-Module|
 |:---:|:---:|:---:|
-| Split-screen dual calculator | Unpack/repack `img` on-device | Hybrid file manager: Shizuku · BusyBox · PRoot |
+| Split-screen dual calculator | Simple software for Unpack/repack `img` on-Android device | Magisk module finder software, Ksu, Ksu Next |
 
 </div>
 
