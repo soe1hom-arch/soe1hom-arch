@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=600&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Wandi+%F0%9F%91%8B;(Soehom)+%F0%9F%87%AE%F0%9F%87%A9" alt="Hi, I'm Wandi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=600&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Wandi+(Soehom) " alt="Hi, I'm Wandi" />
 
   <p>
-    <b>Android · Kotlin · Compose — Firmware & Tools</b><br/>
+    <b>Android · Firmware & Tools</b><br/>
     <i>I am interested in building tools to make it more practical to run on Android.</i>
   </p>
 
@@ -15,8 +15,7 @@
 ---
 
 ## ✏️ Contributions
-- 🕐 I only work on these projects **in spare time**.
-- 📎 These projects are open source; contributions from anyone are always welcome.
+- These projects are open source; contributions from anyone are always welcome.
 
 ---
 
@@ -29,7 +28,7 @@
 </div>
 
 ## 📦 Projects
-Open my repository to see the projects I'm working on
+Open **[Repository](https://github.com/soe1hom-arch?tab=repositories)** to see the projects I'm working on
 
 ---
 
